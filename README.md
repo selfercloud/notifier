@@ -1,4 +1,4 @@
-# :bell: Notifier
+# :loudspeaker: Notifier
 
 Alert and Notification System，消息通知系统。
 
